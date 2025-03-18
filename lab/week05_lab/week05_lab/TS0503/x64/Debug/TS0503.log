@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\RB510\Desktop\week05_lab\TS0503\main.cpp(162,12): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0503.vcxproj -> C:\Users\RB510\Desktop\week05_lab\x64\Debug\TS0503.exe

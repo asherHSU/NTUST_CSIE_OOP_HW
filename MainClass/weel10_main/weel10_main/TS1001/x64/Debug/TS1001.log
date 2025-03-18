@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\school\SchoolProgram\C++\MainClass\weel10_main\TS1001\PrintCombination.h(32,52): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\school\SchoolProgram\C++\MainClass\weel10_main\TS1001\PrintCombination.h(77,69): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS1001.vcxproj -> C:\school\SchoolProgram\C++\MainClass\weel10_main\x64\Debug\TS1001.exe

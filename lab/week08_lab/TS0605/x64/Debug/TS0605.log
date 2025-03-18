@@ -1,0 +1,5 @@
+﻿  Diary.cpp
+  main.cpp
+C:\school\SchoolProgram\C++\lab\week08_lab\TS0605\Creature.h(76,1): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  正在產生程式碼...
+  TS0605.vcxproj -> C:\school\SchoolProgram\C++\lab\week08_lab\x64\Debug\TS0605.exe

@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\school\SchoolProgram\C++\MainClass\week12_main\TS1402\School.h(28,1): warning C4244: '+=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\school\SchoolProgram\C++\MainClass\week12_main\TS1402\School.h(34,1): warning C4244: '-=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\school\SchoolProgram\C++\MainClass\week12_main\TS1402\School.h(67,1): warning C4244: '-=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\school\SchoolProgram\C++\MainClass\week12_main\TS1402\School.h(90,1): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\school\SchoolProgram\C++\MainClass\week12_main\TS1402\School.h(94,1): warning C4244: '+=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\school\SchoolProgram\C++\MainClass\week12_main\TS1402\School.h(99,1): warning C4244: '-=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\school\SchoolProgram\C++\MainClass\week12_main\TS1402\School.h(102,1): warning C4244: '-=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  TS1402.vcxproj -> C:\school\SchoolProgram\C++\MainClass\week12_main\x64\Debug\TS1402.exe

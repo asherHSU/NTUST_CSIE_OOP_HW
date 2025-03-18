@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\RB510\Desktop\CS1010302W03_lab\TS0305\Source.cpp(90,4): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\RB510\Desktop\CS1010302W03_lab\TS0305\Source.cpp(106,4): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0305.vcxproj -> C:\Users\RB510\Desktop\CS1010302W03_lab\x64\Debug\TS0305.exe

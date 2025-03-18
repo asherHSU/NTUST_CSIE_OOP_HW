@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\school\SchoolProgram\C++\MainClass\week08_main\TS0602\PrimeNumber.h(73): warning C4172: 傳回區域變數或暫存的位址: result
+  TS0602.vcxproj -> C:\school\SchoolProgram\C++\MainClass\week08_main\x64\Debug\TS0602.exe

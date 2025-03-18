@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\school\SchoolProgram\C++\MainClass\week09_main\TS0901\Source.cpp(36,37): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  LINK : 最後的累加連結找不到或未建置 C:\school\SchoolProgram\C++\MainClass\week09_main\x64\Debug\TS0901.exe，正在執行完整連結
+  TS0901.vcxproj -> C:\school\SchoolProgram\C++\MainClass\week09_main\x64\Debug\TS0901.exe

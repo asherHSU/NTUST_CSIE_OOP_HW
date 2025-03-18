@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\school\SchoolProgram\C++\MainClass\week13_main\TS1302\Template.h(11,14): warning C4244: 'return': 將 'long double' 轉換為 'T'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=int
+          ]
+C:\school\SchoolProgram\C++\MainClass\week13_main\TS1302\main.cpp(11): message : 請參考正在進行編譯的函式 樣板 具現化 'T absoluteValue<int>(T,T)'
+          with
+          [
+              T=int
+          ]
+  TS1302.vcxproj -> C:\school\SchoolProgram\C++\MainClass\week13_main\x64\Debug\TS1302.exe

@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\school\SchoolProgram\C++\lab\week08_lab\TS0604\VecNf.h(133,1): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\school\SchoolProgram\C++\lab\week08_lab\TS0604\VecNf.h(133,1): warning C4244: '+=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\school\SchoolProgram\C++\lab\week08_lab\TS0604\VecNf.h(136,10): warning C4244: 'return': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\school\SchoolProgram\C++\lab\week08_lab\TS0604\VecNf.h(150,1): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\school\SchoolProgram\C++\lab\week08_lab\TS0604\VecNf.h(167,1): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\school\SchoolProgram\C++\lab\week08_lab\TS0604\VecNf.h(179,1): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+  LINK : 最後的累加連結找不到或未建置 C:\school\SchoolProgram\C++\lab\week08_lab\x64\Debug\TS0604.exe，正在執行完整連結
+  TS0604.vcxproj -> C:\school\SchoolProgram\C++\lab\week08_lab\x64\Debug\TS0604.exe

@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\school\SchoolProgram\C++\MainClass\quiz\FinalPracticeTS08\TS0803\Source.cpp(20,42): warning C4244: '=': 將 'long' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=uint8_t
+          ]
+C:\school\SchoolProgram\C++\MainClass\quiz\FinalPracticeTS08\TS0803\Source.cpp(23,38): warning C4244: '=': 將 'long' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=uint8_t
+          ]
+  TS0803.vcxproj -> C:\school\SchoolProgram\C++\MainClass\quiz\FinalPracticeTS08\x64\Debug\TS0803.exe
